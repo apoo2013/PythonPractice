@@ -17,7 +17,7 @@ def count_primes(num):
     print(primes)
     return len(primes)       
     
-count_primes(100)
+count_primes(20)
 
 #a=int(input("Enter number: "))
 #count=0
